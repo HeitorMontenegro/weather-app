@@ -1,0 +1,17 @@
+.selector-container{
+    display: flex;
+    justify-content:center;
+    gap: 0.5em;
+    background-color: var(--secondary-color);
+    padding: 1.5em;
+    border: none;
+}
+.selector{
+    height: 3.5em;
+    width: 40%;
+    padding: 1em;
+    background-color: var(--primary-color);
+    box-shadow: none;
+    outline: none;
+    border: none;
+}
